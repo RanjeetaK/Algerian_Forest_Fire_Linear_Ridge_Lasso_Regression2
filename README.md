@@ -18,7 +18,3 @@ To access your flask application open new tab in and paste the url:
 http://127.0.0.1:5000/predictdata
 ```
 
-Application on the mentioned url
-```
-![What is this](D:\Ranjeeta\DATA_SCIENCE\ML_Projects\Algerian_Prediction.png)
-```
